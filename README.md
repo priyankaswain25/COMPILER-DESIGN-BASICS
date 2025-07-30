@@ -50,3 +50,5 @@ Source code transformation tools
 It serves as the foundation for further compiler stages like syntax analysis and semantic analysis. This task also enhances logic building, pattern recognition, and text processing skills — all essential for roles in system software, language development, and toolchain engineering.
 
 *OUTPUT*
+
+<img width="1917" height="1016" alt="Image" src="https://github.com/user-attachments/assets/9a5ce1fa-6fa9-4952-8920-049468ed9ce7" />
